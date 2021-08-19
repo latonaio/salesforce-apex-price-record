@@ -1,4 +1,4 @@
-# sf-apex
+# salesforce-apex-price-record
 salesforce sand box 環境で動作する Apex コードを管理します。
 
 ## 使用方法
